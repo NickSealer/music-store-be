@@ -138,6 +138,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.16.6-x86_64-linux)
       racc (~> 1.4)
+    paranoia (2.6.3)
+      activerecord (>= 5.1, < 7.2)
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
@@ -224,6 +226,7 @@ DEPENDENCIES
   bootsnap
   debug
   dotenv-rails
+  paranoia (~> 2.6, >= 2.6.3)
   pry
   puma (>= 5.0)
   rack-cors

@@ -11,5 +11,8 @@ class CreateItems < ActiveRecord::Migration[7.1]
 
       t.timestamps
     end
+
+    add_index :items, :deleted_at
+    add_index :items, :name
   end
 end

@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Guitar",
+    "description": "A string instrument with six strings",
+    "category": 1,
+    "color": "red black white",
+    "status": 1
+  },
+  {
+    "name": "Violin",
+    "description": "A small string instrument played with a bow",
+    "category": 1,
+    "color": "brown black",
+    "status": 2
+  },
+  {
+    "name": "Flute",
+    "description": "A wind instrument made of metal or wood",
+    "category": 2,
+    "color": "silver",
+    "status": 1
+  },
+  {
+    "name": "Trumpet",
+    "description": "A brass wind instrument with a bright tone",
+    "category": 2,
+    "color": "gold silver",
+    "status": 3
+  },
+  {
+    "name": "Drum",
+    "description": "A percussion instrument played by striking",
+    "category": 3,
+    "color": "black red",
+    "status": 1
+  },
+  {
+    "name": "Piano",
+    "description": "A large keyboard instrument with strings",
+    "category": 1,
+    "color": "black white",
+    "status": 2
+  },
+  {
+    "name": "Saxophone",
+    "description": "A wind instrument made of brass with a single reed",
+    "category": 2,
+    "color": "gold silver",
+    "status": 1
+  },
+  {
+    "name": "Clarinet",
+    "description": "A woodwind instrument with a single reed",
+    "category": 2,
+    "color": "black silver",
+    "status": 3
+  },
+  {
+    "name": "Cello",
+    "description": "A large string instrument played with a bow",
+    "category": 1,
+    "color": "brown black",
+    "status": 1
+  },
+  {
+    "name": "Bass Guitar",
+    "description": "A string instrument with a deep tone",
+    "category": 1,
+    "color": "black white",
+    "status": 2
+  },
+  {
+    "name": "Trombone",
+    "description": "A brass wind instrument with a slide",
+    "category": 2,
+    "color": "gold silver",
+    "status": 1
+  },
+  {
+    "name": "Harp",
+    "description": "A large string instrument with many strings",
+    "category": 1,
+    "color": "gold silver",
+    "status": 3
+  },
+  {
+    "name": "Oboe",
+    "description": "A woodwind instrument with a double reed",
+    "category": 2,
+    "color": "black brown",
+    "status": 2
+  },
+  {
+    "name": "Tuba",
+    "description": "A large brass wind instrument with a deep tone",
+    "category": 2,
+    "color": "gold silver",
+    "status": 1
+  },
+  {
+    "name": "Snare Drum",
+    "description": "A percussion instrument with a sharp tone",
+    "category": 3,
+    "color": "red black",
+    "status": 3
+  },
+  {
+    "name": "Tambourine",
+    "description": "A small percussion instrument with jingles",
+    "category": 3,
+    "color": "yellow green",
+    "status": 1
+  },
+  {
+    "name": "Maracas",
+    "description": "A pair of percussion instruments shaken by hand",
+    "category": 3,
+    "color": "orange red",
+    "status": 2
+  },
+  {
+    "name": "Accordion",
+    "description": "A portable keyboard instrument with bellows",
+    "category": 1,
+    "color": "red white black",
+    "status": 3
+  },
+  {
+    "name": "Bagpipes",
+    "description": "A wind instrument with a distinctive sound",
+    "category": 2,
+    "color": "green black",
+    "status": 1
+  },
+  {
+    "name": "Xylophone",
+    "description": "A percussion instrument with wooden bars",
+    "category": 3,
+    "color": "brown yellow",
+    "status": 2
+  },
+  {
+    "name": "Ukulele",
+    "description": "A small string instrument with a light tone",
+    "category": 1,
+    "color": "brown white",
+    "status": 1
+  },
+  {
+    "name": "French Horn",
+    "description": "A brass wind instrument with a coiled tube",
+    "category": 2,
+    "color": "gold silver",
+    "status": 2
+  },
+  {
+    "name": "Timpani",
+    "description": "A large percussion instrument with a tunable head",
+    "category": 3,
+    "color": "brown black",
+    "status": 3
+  },
+  {
+    "name": "Harmonica",
+    "description": "A small wind instrument played by blowing and drawing",
+    "category": 2,
+    "color": "silver black",
+    "status": 1
+  },
+  {
+    "name": "Banjo",
+    "description": "A string instrument with a drum-like body",
+    "category": 1,
+    "color": "white brown",
+    "status": 2
+  },
+  {
+    "name": "Piccolo",
+    "description": "A small, high-pitched wind instrument",
+    "category": 2,
+    "color": "black silver",
+    "status": 3
+  },
+  {
+    "name": "Congas",
+    "description": "Tall, narrow drums played with the hands",
+    "category": 3,
+    "color": "brown red",
+    "status": 1
+  },
+  {
+    "name": "Accordion",
+    "description": "A portable keyboard instrument with bellows",
+    "category": 1,
+    "color": "red white black",
+    "status": 3
+  },
+  {
+    "name": "Double Bass",
+    "description": "The largest and lowest-pitched string instrument",
+    "category": 1,
+    "color": "brown black",
+    "status": 2
+  },
+  {
+    "name": "Recorder",
+    "description": "A woodwind instrument with a whistle mouthpiece",
+    "category": 2,
+    "color": "brown white",
+    "status": 1
+  },
+  {
+    "name": "Mandolin",
+    "description": "A small string instrument with a bright tone",
+    "category": 1,
+    "color": "brown black",
+    "status": 2
+  },
+  {
+    "name": "Bongo Drums",
+    "description": "A pair of small hand drums",
+    "category": 3,
+    "color": "brown white",
+    "status": 3
+  },
+  {
+    "name": "Bassoon",
+    "description": "A large woodwind instrument with a deep tone",
+    "category": 2,
+    "color": "brown black",
+    "status": 1
+  },
+  {
+    "name": "Synthesizer",
+    "description": "An electronic keyboard instrument",
+    "category": 1,
+    "color": "black silver",
+    "status": 3
+  },
+  {
+    "name": "Glockenspiel",
+    "description": "A percussion instrument with metal bars",
+    "category": 3,
+    "color": "silver white",
+    "status": 1
+  },
+  {
+    "name": "Cymbals",
+    "description": "A pair of percussion instruments made of metal",
+    "category": 3,
+    "color": "silver gold",
+    "status": 2
+  },
+  {
+    "name": "Bagpipes",
+    "description": "A wind instrument with a distinctive sound",
+    "category": 2,
+    "color": "green black",
+    "status": 1
+  },
+  {
+    "name": "Triangle",
+    "description": "A small percussion instrument made of metal",
+    "category": 3,
+    "color": "silver",
+    "status": 3
+  },
+  {
+    "name": "Electric Guitar",
+    "description": "A string instrument that uses electrical amplification",
+    "category": 1,
+    "color": "black white",
+    "status": 1
+  },
+  {
+    "name": "Ocarina",
+    "description": "A small wind instrument with finger holes",
+    "category": 2,
+    "color": "blue white",
+    "status": 2
+  }
+]

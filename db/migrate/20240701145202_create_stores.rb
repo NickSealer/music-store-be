@@ -8,5 +8,7 @@ class CreateStores < ActiveRecord::Migration[7.1]
 
       t.timestamps
     end
+
+    add_index :stores, :identification
   end
 end
